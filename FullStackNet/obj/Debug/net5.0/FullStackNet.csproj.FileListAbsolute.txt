@@ -1,0 +1,16 @@
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.exe
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.deps.json
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.runtimeconfig.json
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.runtimeconfig.dev.json
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.dll
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\ref\FullStackNet.dll
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\bin\Debug\net5.0\FullStackNet.pdb
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.csproj.AssemblyReference.cache
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.AssemblyInfoInputs.cache
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.AssemblyInfo.cs
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.csproj.CoreCompileInputs.cache
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.dll
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\ref\FullStackNet.dll
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.pdb
+C:\Users\91707\Desktop\FullStackNet\FullStackNet\obj\Debug\net5.0\FullStackNet.genruntimeconfig.cache
